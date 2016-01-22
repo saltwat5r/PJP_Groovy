@@ -1,0 +1,6 @@
+Kuc Asia	Groovy	Grails	Java
+Wiecek Jan	Groovy	Grails
+Zagrondy Stefan	Grails	Java	JEE
+Zacny Mirek	Grails	Java
+Jarosz Slawek	Java	JEE
+Handlarz Janusz	JEE

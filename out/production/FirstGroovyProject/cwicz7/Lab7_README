@@ -1,0 +1,45 @@
+Zadania
+
+
+Zad. 1
+
+Firma software'owa prowadzi projekty w:
+Groovy, Grails, Java, JEE
+Plik Projekty.txt zawiera informacje o składzie osobowym każdego z projektów w postaci:
+nazwaprojektu<TAB>Nazwisko imie(1)<TAB>Nazwiskoimie(2)<TAB> itd
+Utworzyc pliki:
+ProjektyDuze.txt - zawierający spis projektów w którym pracuje > niż 3 osoby
+Programisci.txt - zawierajacy spis programistow w postaci:
+nazwisko imie<tab>proj1<tab>proj2<tab> itd.
+
+
+
+
+Zad. 2
+
+Plik MenuPl.txt zawiera menu w postaci:
+nazwa_dania cena
+
+Ceny sa w PLN.
+Na podstawie pliku wejsciowego stworzyc plik MenuEur.txt majacy te sama postac, ale z cenami w EUR.
+
+Zad. 3
+Wylistować pełne nazwy wszystkich plików html z podanego katalogu i wzystkich jego podkatalogów w postaci:
+1 nazwa
+2 nazwa
+
+Np.
+1 D:\docs\api\allclasses-frame.html
+2 D:\docs\api\allclasses-noframe.html
+3 D:\docs\api\constant-values.html
+4 D:\docs\api\deprecated-list.html
+5 D:\docs\api\help-doc.html
+6 D:\docs\api\index-files\index-1.html
+7 D:\docs\api\index-files\index-10.html
+8 D:\docs\api\index-files\index-11.html
+9 D:\docs\api\index-files\index-12.html
+10 D:\docs\api\index-files\index-13.html
+...
+....
+
+

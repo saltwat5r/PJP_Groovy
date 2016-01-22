@@ -1,0 +1,4 @@
+Groovy	Asia Kuc	Jan Wiecek
+Grails	Asia Kuc	Jan Wiecek	Stefan Zagrondy	Mirek Zacny
+Java	Asia Kuc	Stefan Zagrondy	Mirek Zacny	Slawek Jarosz
+JEE	Slawek Jarosz	Stefan Zagrondy	Janusz Handlarz

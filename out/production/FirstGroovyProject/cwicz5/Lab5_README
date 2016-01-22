@@ -1,0 +1,18 @@
+Zadania do wykonania
+
+Zad. 1 (2 p.)
+
+Napisać funkcję String reverseChars(String s)  odwracającą napis s i zwracającą odwrócony napis.
+np. reverseChars("piesek") zwróci "keseip"
+
+Zad. 2 (2 p.)
+
+Napisać funkcję String reverseWords(String s) zwracającą napis, składający się ze słów napisu s w odwrotnej kolejności.
+Np.  reverseWords("ala ma kota") zwróci "kota ma ala"
+
+Zad. 3  (3 p)
+Napisać funkcję String join(List l, String sep) zwracająca napis zawierający elmenty listy l rozdzielone separatorami sep.
+
+Zad. 4 (5 p.)
+Napisy wprowadzane w kolejnych dialogach mają formę:  pozycja = koszt. Zsumuj wszystkie koszty
+dla tych samych pozycji (np. mleko, chleb) .

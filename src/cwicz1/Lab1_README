@@ -1,0 +1,11 @@
+1.    Zainstalować JDK,  Groovy, Eclipse IDE,  Groovy Plug-in dla Eclispe (2)
+
+2.    Napisać w wybranym edytorze tekstowym program typu "hello world" w Groovy. Uruchomić go z konsoli. (2)
+
+3.    Praca z Eclipse: workspace, tworzenie projektów i programów Groovy, nawigacja, uruchamianie programów. (2)
+
+4.    Napisać pogram przekształcający liczby na ich słowne odpowiedniki.
+       Np. po wprowadzeniu liczby 147 winniśmy uzyskać jeden - cztery - siedem. (5)
+
+5.    Napisy wprowadzane w kolejnych dialogach mają formę:  pozycja = koszt.
+        Zsumuj wszystkie koszty dla tych samych pozycji (np. mleko, chleb). (5)
